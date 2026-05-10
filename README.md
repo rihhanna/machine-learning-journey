@@ -65,7 +65,7 @@ More days and projects will be added as I continue learning.
 
 * [x] Day 1 — Introduction to Machine Learning
 * [x] Day 2 — Linear Regression, Cost Function & Gradient Descent
-* [x] Day 3 — 
+* [x] Day 3 — Multiple Linear Regression notes and blog
 * [ ] Day 4 — (Coming next...)
 
 ---
