@@ -7,7 +7,7 @@ This repository documents my daily progress as I build a strong foundation in Ma
 
 ## 👩‍💻 About Me
 
-Hi, I’m **Rehana Hassan** — a Data Analyst transitioning into Machine Learning and AI.
+ I’m **Rehana Hassan** — a Data Analyst transitioning into Machine Learning and AI.
 
 I have a background in data analysis and I’m currently expanding my skills to build predictive models and intelligent systems.
 
