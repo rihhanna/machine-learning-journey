@@ -1,60 +1,84 @@
-# Day 3 — Multiple Linear Regression
+# Day 3 — Multiple Features, Vectorization & Gradient Descent
 
 ## 📌 What I Learned
 
-Today I learned about Multiple Linear Regression, which is an extension of linear regression.
-
-Instead of using one input (feature), this model uses multiple inputs to make better predictions.
+Today I continued learning about Multiple Linear Regression and explored how machine learning models handle multiple features efficiently.
 
 ---
 
-## 🧠 Key Concept
+## 🧠 Multiple Features
 
-Multiple Linear Regression predicts a numerical value using more than one feature.
+Unlike simple linear regression, which uses one feature, multiple linear regression uses several features to make predictions.
 
 ### Example:
 
-Predicting house price using:
+Predicting a house price using:
 
-* Size of the house
-* Number of rooms
+* House size
+* Number of bedrooms
+* Age of the house
 * Location
 
----
+The model combines all these features to produce a prediction.
 
-## 🔑 Model Formula
+### Model Formula
 
-y = w1x1 + w2x2 + w3x3 + ... + b
+y = w₁x₁ + w₂x₂ + w₃x₃ + ... + b
 
-* x → input features
-* w → weights (importance of each feature)
-* b → bias
-* y → predicted value
+Where:
 
----
-
-## ⚙️ How it Works
-
-* Each feature has a weight
-* The model combines all features
-* It adjusts weights to reduce error
-* Uses gradient descent to find the best values
+* x = features (inputs)
+* w = weights (importance of each feature)
+* b = bias
+* y = prediction
 
 ---
 
-## 💡 Simple Understanding
+## ⚡ Vectorization
 
-Each feature contributes to the final prediction.
+Vectorization is a technique that allows computers to perform calculations on many values at the same time instead of using loops.
 
-Example:
-Price = (size × weight1) + (rooms × weight2) + (location × weight3)
+### Benefits:
+
+* Faster computation
+* Cleaner code
+* More efficient training
+
+Instead of calculating each feature one by one, vectorization processes all features together using vectors and matrices.
+
+---
+
+## 📉 Gradient Descent for Multiple Linear Regression
+
+Gradient Descent is used to find the best values for the weights and bias.
+
+The algorithm:
+
+1. Starts with initial values.
+2. Calculates the prediction error.
+3. Updates the weights and bias.
+4. Repeats the process until the cost becomes small.
+
+### Learning Rate (α)
+
+The learning rate controls the size of each update step.
+
+* Small learning rate → slow learning
+* Large learning rate → may overshoot the minimum
+
+Choosing the right learning rate helps the model converge efficiently.
+
+---
+
+## 🔑 Key Takeaways
+
+* Multiple Linear Regression uses multiple features to make predictions.
+* Vectorization makes computations much faster.
+* Gradient Descent optimizes the model by reducing prediction error.
+* Learning rate controls how quickly the model learns.
 
 ---
 
 ## 🧠 Reflection
 
-This concept helped me understand how real-world problems use multiple factors instead of just one input. It felt clearer than expected because it builds on linear regression.
-
----
-
-✨ *Learning step by step and improving my Machine Learning understanding.*
+Today’s lesson helped me understand how machine learning models work with real-world data that contains many features. The idea of vectorization was especially interesting because it showed how mathematical operations can make model training much more efficient.
