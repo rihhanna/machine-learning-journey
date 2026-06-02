@@ -7,7 +7,7 @@ This repository documents my daily progress as I build a strong foundation in Ma
 
 ## 👩‍💻 About Me
 
-Hi, I’m **Rehana Hassan** — a Data Analyst transitioning into Machine Learning and AI.
+ I’m **Rehana Hassan** — a Data Analyst transitioning into Machine Learning and AI.
 
 I have a background in data analysis and I’m currently expanding my skills to build predictive models and intelligent systems.
 
@@ -65,7 +65,8 @@ More days and projects will be added as I continue learning.
 
 * [x] Day 1 — Introduction to Machine Learning
 * [x] Day 2 — Linear Regression, Cost Function & Gradient Descent
-* [ ] Day 3 — (Coming next...)
+* [x] Day 3 — Multiple Linear Regression notes and blog
+* [ ] Day 4 — (Coming next...)
 
 ---
 
