@@ -63,11 +63,12 @@ More days and projects will be added as I continue learning.
 
 ## 📈 Progress Tracker
 
-* [x] Day 1 — Introduction to Machine Learning
-* [x] Day 2 — Linear Regression, Cost Function & Gradient Descent
-* [x] Day 3 — Multiple Linear Regression notes and blog
-* [x] Day 4 — Feature Scaling, Feature Engineering & Polynomial Regression
-* [ ] Week 3 — Coming next...
+- [x] Day 1 — Introduction to Machine Learning
+- [x] Day 2 — Cost Function & Gradient Descent
+- [x] Day 3 — Multiple Features & Vectorization
+- [x] Day 4 — Feature Scaling, Feature Engineering & Polynomial Regression
+- [x] Day 5 — Classification, Logistic Regression & Decision Boundaries
+- [ ] Day 6 — Coming next...
 
 ---
 
