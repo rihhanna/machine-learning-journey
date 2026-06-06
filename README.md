@@ -68,7 +68,8 @@ More days and projects will be added as I continue learning.
 - [x] Day 3 — Multiple Features & Vectorization
 - [x] Day 4 — Feature Scaling, Feature Engineering & Polynomial Regression
 - [x] Day 5 — Classification, Logistic Regression & Decision Boundaries
-- [ ] Day 6 — Coming next...
+- [x] Day 6 — Logistic Loss & Cost Function for Logistic Regression
+- [ ] Day 7 — Coming next...
 
 ---
 
