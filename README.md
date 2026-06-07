@@ -1,105 +1,144 @@
 # 🚀 Machine Learning Journey
 
 Welcome to my Machine Learning learning journey!
-This repository documents my daily progress as I build a strong foundation in Machine Learning and Artificial Intelligence.
+
+This repository documents my daily progress, notes, exercises, and reflections as I learn Machine Learning and work toward becoming an AI and Machine Learning Specialist.
 
 ---
 
 ## 👩‍💻 About Me
 
- I’m **Rehana Hassan** — a Data Analyst transitioning into Machine Learning and AI.
+Hi, I'm **Rehana Hassan**.
 
-I have a background in data analysis and I’m currently expanding my skills to build predictive models and intelligent systems.
+I have a background in Software Engineering and Data Analytics, and I am currently expanding my skills in Machine Learning, Artificial Intelligence, and Cloud Technologies.
 
----
-
-## 📚 About This Repository
-
-This repo is a collection of my daily learning notes, summaries, and practical understanding of Machine Learning concepts.
-
-Here, you will find:
-
-* 📌 Daily notes and explanations
-* 🧠 Simplified concepts in my own words
-* 📊 Step-by-step learning progress
-* 💡 Reflections and insights
+My goal is to build intelligent systems that solve real-world problems and contribute to impactful technology projects.
 
 ---
 
-## 🎯 My Goals
+## 🎯 Learning Goals
 
 * Build a strong foundation in Machine Learning
-* Understand core concepts like regression, classification, and optimization
-* Work on real-world ML projects
-* Transition from Data Analyst to Machine Learning Engineer
-* Explore AI and Cloud technologies
+* Master supervised and unsupervised learning
+* Learn Deep Learning and Neural Networks
+* Develop practical Machine Learning projects
+* Explore Cloud AI technologies
+* Become an AI & Machine Learning Specialist
 
 ---
 
-## 🗂️ Repository Structure
+## 📚 Current Learning Path
 
-Each folder represents one day of learning:
+### Machine Learning Specialization
 
-```
-Day-01/
-   notes.md
+#### ✅ Course 1: Supervised Machine Learning — Regression and Classification
 
-Day-02/
-   notes.md
-```
+Completed
 
-More days and projects will be added as I continue learning.
+Topics covered:
 
----
+* Linear Regression
+* Multiple Linear Regression
+* Gradient Descent
+* Feature Scaling
+* Feature Engineering
+* Polynomial Regression
+* Classification
+* Logistic Regression
+* Decision Boundaries
+* Cost Functions
+* Model Optimization
 
-## 🛠️ Tools & Technologies
+#### 🔄 Course 2: Advanced Learning Algorithms
 
-* Python 🐍
-* NumPy & Pandas
-* Scikit-learn
-* Jupyter Notebook
+In Progress
+
+Upcoming topics:
+
+* Neural Networks
+* Deep Learning Fundamentals
+* Decision Trees
+* Ensemble Methods
+
+#### ⏳ Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning
+
+Planned
 
 ---
 
 ## 📈 Progress Tracker
 
-- [x] Day 1 — Introduction to Machine Learning
-- [x] Day 2 — Cost Function & Gradient Descent
-- [x] Day 3 — Multiple Features & Vectorization
-- [x] Day 4 — Feature Scaling, Feature Engineering & Polynomial Regression
-- [x] Day 5 — Classification, Logistic Regression & Decision Boundaries
-- [x] Day 6 — Logistic Loss & Cost Function for Logistic Regression
-- [ ] Day 7 — Coming next...
+* [x] Day 1 — Introduction to Machine Learning
+* [x] Day 2 — Cost Function & Gradient Descent
+* [x] Day 3 — Multiple Features & Vectorization
+* [x] Day 4 — Feature Scaling, Feature Engineering & Polynomial Regression
+* [x] Day 5 — Classification, Logistic Regression & Decision Boundaries
+* [x] Day 6 — Logistic Loss & Cost Function for Logistic Regression
+* [x] Milestone — Completed Course 1
+* [ ] Course 2 — In Progress
 
 ---
 
-## 🌱 Learning Approach
+## 🏆 Achievements
 
-I believe in learning by:
-
-* Understanding concepts deeply
-* Writing notes in simple terms
-* Practicing consistently
-* Building projects step by step
+* IBM Data Analyst Professional Certificate
+* Machine Learning Specialization — Course 1 Certificate
+* Multiple Machine Learning Labs and Assignments Completed
 
 ---
 
-## 🚀 Future Plans
+## 🛠️ Technologies
 
-* Build Machine Learning mini-projects
-* Learn model evaluation and tuning
-* Explore Deep Learning
-* Deploy models using cloud platforms
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+* Jupyter Notebook
+* SQL
+* Power BI
+
+---
+
+## 📂 Repository Structure
+
+```text
+Day-01/
+Day-02/
+Day-03/
+Day-04/
+Day-05/
+Day-06/
+
+Milestone-01/
+```
+
+Each folder contains notes, summaries, and reflections from my learning journey.
+
+---
+
+## 🌱 Learning Philosophy
+
+I believe in:
+
+* Learning consistently
+* Taking clear notes
+* Practicing regularly
+* Building projects
+* Sharing knowledge publicly
 
 ---
 
 ## 🤝 Connect With Me
 
-I’m actively sharing my journey and progress. Feel free to connect with me:
+LinkedIn:
+[www.linkedin.com/in/rehana-hassan](http://www.linkedin.com/in/rehana-hassan)
 
-🔗 LinkedIn: https://www.linkedin.com/in/rehana-hassan/
-🔗 GitHub: https://github.com/rihhanna
+GitHub:
+github.com/rihhanna
 
 ---
 
-✨ *Learning Machine Learning one step at a time.*
+⭐ Thank you for visiting my repository and following my Machine Learning journey.
+
+🚀 Learning one step at a time.
