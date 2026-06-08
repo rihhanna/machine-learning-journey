@@ -1,105 +1,167 @@
 # 🚀 Machine Learning Journey
 
-Welcome to my Machine Learning learning journey!
-This repository documents my daily progress as I build a strong foundation in Machine Learning and Artificial Intelligence.
+Welcome to my Machine Learning Journey!
+
+This repository documents my daily learning progress as I build a strong foundation in Machine Learning, Artificial Intelligence, and Data Science.
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
- I’m **Rehana Hassan** — a Data Analyst transitioning into Machine Learning and AI.
+Hi, I'm **Rehana Hassan**.
 
-I have a background in data analysis and I’m currently expanding my skills to build predictive models and intelligent systems.
+I'm a Software Engineering student and Data Analyst who is currently transitioning into Machine Learning and Artificial Intelligence.
 
----
-
-## 📚 About This Repository
-
-This repo is a collection of my daily learning notes, summaries, and practical understanding of Machine Learning concepts.
-
-Here, you will find:
-
-* 📌 Daily notes and explanations
-* 🧠 Simplified concepts in my own words
-* 📊 Step-by-step learning progress
-* 💡 Reflections and insights
+My goal is to become an AI & Machine Learning Specialist by mastering machine learning concepts, building practical projects, and continuously improving my technical skills.
 
 ---
 
-## 🎯 My Goals
+# 📚 About This Repository
 
-* Build a strong foundation in Machine Learning
-* Understand core concepts like regression, classification, and optimization
-* Work on real-world ML projects
-* Transition from Data Analyst to Machine Learning Engineer
-* Explore AI and Cloud technologies
+This repository serves as my public learning journal.
+
+Here you'll find:
+
+* 📌 Daily learning notes
+* 🧠 Concepts explained in simple words
+* 📊 Progress tracking
+* 💡 Personal reflections
+* 🏆 Milestones and achievements
+* 🚀 Future projects
 
 ---
 
-## 🗂️ Repository Structure
+# 🎯 Learning Goals
 
-Each folder represents one day of learning:
+* Build a strong Machine Learning foundation
+* Master Supervised and Unsupervised Learning
+* Learn Deep Learning and Neural Networks
+* Build real-world Machine Learning projects
+* Explore Cloud AI technologies
+* Become an AI & Machine Learning Specialist
 
+---
+
+# 📂 Repository Structure
+
+```text
+machine-learning-journey/
+│
+├── course-01-supervised-learning/
+│   ├── Day-01/
+│   ├── Day-02/
+│   ├── Day-03/
+│   ├── Day-04/
+│   ├── Day-05/
+│   └── Day-06/
+│
+├── course-02-advanced-learning-algorithms/
+│   ├── Day-01/
+│   └── Day-02/
+│
+├── milestones/
+│   ├──course-1-completed
+|
+├── certificates/
+|   ├── course-01-certificate.png
+|
+└── README.md
 ```
-Day-01/
-   notes.md
 
-Day-02/
-   notes.md
-```
-
-More days and projects will be added as I continue learning.
+Each day contains notes and reflections from my learning process.
 
 ---
 
-## 🛠️ Tools & Technologies
+# 🏆 Achievements
 
-* Python 🐍
-* NumPy & Pandas
+## Machine Learning Specialization
+
+### ✅ Course 1 Completed
+
+**Supervised Machine Learning: Regression and Classification**
+
+Topics covered:
+
+* Linear Regression
+* Multiple Linear Regression
+* Gradient Descent
+* Feature Scaling
+* Feature Engineering
+* Polynomial Regression
+* Logistic Regression
+* Classification
+* Decision Boundaries
+* Cost Functions
+
+---
+
+# 📈 Current Progress
+
+## Course 1: Supervised Machine Learning
+
+* ✅ Completed
+
+## Course 2: Advanced Learning Algorithms
+
+* ✅ Day 1 — Neural Networks Intuition
+* 🔄 In Progress
+
+## Course 3: Unsupervised Learning, Recommenders & Reinforcement Learning
+
+* ⏳ Planned
+
+---
+
+# 🛠️ Technologies
+
+* Python
+* NumPy
+* Pandas
+* Matplotlib
 * Scikit-learn
 * Jupyter Notebook
+* SQL
+* Power BI
+* Git & GitHub
 
 ---
 
-## 📈 Progress Tracker
+# 🌱 Learning Philosophy
 
-- [x] Day 1 — Introduction to Machine Learning
-- [x] Day 2 — Cost Function & Gradient Descent
-- [x] Day 3 — Multiple Features & Vectorization
-- [x] Day 4 — Feature Scaling, Feature Engineering & Polynomial Regression
-- [x] Day 5 — Classification, Logistic Regression & Decision Boundaries
-- [x] Day 6 — Logistic Loss & Cost Function for Logistic Regression
-- [ ] Day 7 — Coming next...
+I believe in:
 
----
+* Learning consistently
+* Practicing regularly
+* Writing clear notes
+* Building projects
+* Sharing knowledge publicly
 
-## 🌱 Learning Approach
-
-I believe in learning by:
-
-* Understanding concepts deeply
-* Writing notes in simple terms
-* Practicing consistently
-* Building projects step by step
+Small progress every day leads to big results.
 
 ---
 
-## 🚀 Future Plans
+# 🚀 Future Plans
 
 * Build Machine Learning mini-projects
-* Learn model evaluation and tuning
-* Explore Deep Learning
-* Deploy models using cloud platforms
+* Complete the Machine Learning Specialization
+* Learn Deep Learning
+* Learn MLOps and Model Deployment
+* Build AI-powered applications
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
-I’m actively sharing my journey and progress. Feel free to connect with me:
+### LinkedIn
 
-🔗 LinkedIn: https://www.linkedin.com/in/rehana-hassan/
-🔗 GitHub: https://github.com/rihhanna
+[www.linkedin.com/in/rehana-hassan](http://www.linkedin.com/in/rehana-hassan)
+
+### GitHub
+
+github.com/rihhanna
 
 ---
 
-✨ *Learning Machine Learning one step at a time.*
+⭐ Thank you for visiting my repository and following my Machine Learning journey.
+
+✨ Learning one step at a time. Every day counts.
