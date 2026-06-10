@@ -104,7 +104,8 @@ Topics covered:
 ## Course 2: Advanced Learning Algorithms
 
 * ✅ Day 1 — Neural Networks Intuition
-* 🔄 In Progress
+* ✅ Day-02 — Neural Network Models
+* ✅ Day-03 — TensorFlow Implementation
 
 ## Course 3: Unsupervised Learning, Recommenders & Reinforcement Learning
 
