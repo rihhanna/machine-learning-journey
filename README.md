@@ -1,8 +1,8 @@
 # 🚀 Machine Learning Journey
 
-Welcome to my Machine Learning Journey!
+Welcome to my **Machine Learning Journey**!
 
-This repository documents my daily learning progress as I build a strong foundation in Machine Learning, Artificial Intelligence, and Data Science.
+This repository documents my daily learning progress as I build a strong foundation in **Machine Learning**, **Artificial Intelligence**, and **Data Science** through hands-on learning, projects, and continuous practice.
 
 ---
 
@@ -10,24 +10,25 @@ This repository documents my daily learning progress as I build a strong foundat
 
 Hi, I'm **Rehana Hassan**.
 
-I'm a Software Engineering student and Data Analyst who is currently transitioning into Machine Learning and Artificial Intelligence.
+I'm a **Software Engineering student** and **Data Analyst** transitioning into **Machine Learning and Artificial Intelligence**.
 
-My goal is to become an AI & Machine Learning Specialist by mastering machine learning concepts, building practical projects, and continuously improving my technical skills.
+My goal is to become an **AI & Machine Learning Engineer** by mastering machine learning concepts, building real-world projects, and continuously improving my technical skills.
 
 ---
 
 # 📚 About This Repository
 
-This repository serves as my public learning journal.
+This repository serves as my public learning journal throughout the **Machine Learning Specialization by DeepLearning.AI**.
 
 Here you'll find:
 
-* 📌 Daily learning notes
-* 🧠 Concepts explained in simple words
+* 📖 Daily learning notes
+* 🧠 Concepts explained in simple language
+* 💻 Hands-on practice
+* 🚀 Machine Learning projects
 * 📊 Progress tracking
+* 🏆 Course milestones and certificates
 * 💡 Personal reflections
-* 🏆 Milestones and achievements
-* 🚀 Future projects
 
 ---
 
@@ -35,10 +36,10 @@ Here you'll find:
 
 * Build a strong Machine Learning foundation
 * Master Supervised and Unsupervised Learning
-* Learn Deep Learning and Neural Networks
-* Build real-world Machine Learning projects
-* Explore Cloud AI technologies
-* Become an AI & Machine Learning Specialist
+* Learn Neural Networks and Deep Learning
+* Build practical Machine Learning projects
+* Learn Model Deployment and MLOps
+* Become an AI & Machine Learning Engineer
 
 ---
 
@@ -47,40 +48,43 @@ Here you'll find:
 ```text
 machine-learning-journey/
 │
-├── course-01-supervised-learning/
+├── course-01/
 │   ├── Day-01/
 │   ├── Day-02/
-│   ├── Day-03/
-│   ├── Day-04/
-│   ├── Day-05/
+│   ├── ...
 │   └── Day-06/
 │
-├── course-02-advanced-learning-algorithms/
+├── course-02/
 │   ├── Day-01/
-│   └── Day-02/
+│   ├── Day-02/
+│   ├── ...
+│   └── Day-14/
+│
+├── course-03/
+│   └── (Coming Soon)
 │
 ├── milestones/
 │   ├──course-1-completed
-|
+│   ├──course-1-completed
+│
 ├── certificates/
-|   ├── course-01-certificate.png
-|
+│   ├── course-01-certificate.png
+│   └── course-02-certificate.png
+│
 └── README.md
 ```
 
-Each day contains notes and reflections from my learning process.
+Each day contains my notes, summaries, achievements, and reflections from the lessons I complete.
 
 ---
 
-# 🏆 Achievements
+# 🏆 Milestones
 
-## Machine Learning Specialization
-
-### ✅ Course 1 Completed
+## ✅ Milestone 1 — Course 1 Completed
 
 **Supervised Machine Learning: Regression and Classification**
 
-Topics covered:
+Topics learned:
 
 * Linear Regression
 * Multiple Linear Regression
@@ -91,35 +95,73 @@ Topics covered:
 * Logistic Regression
 * Classification
 * Decision Boundaries
+* Logistic Loss
 * Cost Functions
+
+🏆 **Certificate Earned**
+
+---
+
+## ✅ Milestone 2 — Course 2 Completed
+
+**Advanced Learning Algorithms**
+
+Topics learned:
+
+* Neural Networks
+* Forward Propagation
+* TensorFlow
+* Activation Functions (Sigmoid, ReLU, Softmax)
+* Binary & Multiclass Classification
+* Model Evaluation
+* Cross Validation
+* Bias and Variance
+* Learning Curves
+* Regularization
+* Decision Trees
+* Random Forest
+* XGBoost
+* Tree Ensembles
+* Error Analysis
+* Transfer Learning
+* Fairness and Ethics
+
+🏆 **Certificate Earned**
 
 ---
 
 # 📈 Current Progress
 
-## Course 1: Supervised Machine Learning
-
-* ✅ Completed
-
-## Course 2: Advanced Learning Algorithms
-
-* ✅ Day 1 — Neural Networks Intuition
-* ✅ Day-02 — Neural Network Models
-* ✅ Day-03 — TensorFlow Implementation
-
-## Course 3: Unsupervised Learning, Recommenders & Reinforcement Learning
-
-* ⏳ Planned
+| Course                                                                     | Status        |
+| -------------------------------------------------------------------------- | ------------- |
+| ✅ Course 1 – Supervised Machine Learning                                   | Completed     |
+| ✅ Course 2 – Advanced Learning Algorithms                                  | Completed     |
+| 🚀 Course 3 – Unsupervised Learning, Recommenders & Reinforcement Learning | Starting Soon |
 
 ---
 
-# 🛠️ Technologies
+# 💻 Machine Learning Projects
+
+Alongside my coursework, I'm building practical Machine Learning projects to strengthen my understanding.
+
+Current projects include:
+
+* 🏠 House Price Prediction
+* 📚 Student Score Prediction 
+* 🎓 Pass/Fail Classifier 
+
+More projects will be added as I continue learning.
+
+---
+
+# 🛠️ Technologies & Tools
 
 * Python
 * NumPy
 * Pandas
 * Matplotlib
 * Scikit-learn
+* TensorFlow
 * Jupyter Notebook
 * SQL
 * Power BI
@@ -132,22 +174,23 @@ Topics covered:
 I believe in:
 
 * Learning consistently
-* Practicing regularly
+* Practicing every day
 * Writing clear notes
-* Building projects
-* Sharing knowledge publicly
+* Building real projects
+* Sharing my progress publicly
 
-Small progress every day leads to big results.
+> **Small improvements every day lead to remarkable results.**
 
 ---
 
-# 🚀 Future Plans
+# 🚀 Future Roadmap
 
-* Build Machine Learning mini-projects
-* Complete the Machine Learning Specialization
+* Complete Course 3 of the Machine Learning Specialization
+* Build 20+ Machine Learning projects
 * Learn Deep Learning
 * Learn MLOps and Model Deployment
 * Build AI-powered applications
+* Contribute to Open Source AI projects
 
 ---
 
@@ -155,14 +198,16 @@ Small progress every day leads to big results.
 
 ### LinkedIn
 
-[www.linkedin.com/in/rehana-hassan](http://www.linkedin.com/in/rehana-hassan)
+**https://www.linkedin.com/in/rehana-hassan/**
 
 ### GitHub
 
-github.com/rihhanna
+**https://github.com/rihhanna**
 
 ---
 
-⭐ Thank you for visiting my repository and following my Machine Learning journey.
+⭐ Thank you for visiting my repository!
 
-✨ Learning one step at a time. Every day counts.
+If you're also learning Machine Learning, feel free to explore my notes, follow my journey, or connect with me.
+
+**Happy Learning! 🚀**
