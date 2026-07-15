@@ -1,16 +1,8 @@
-![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Completed-success)
-![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Specialization-orange)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
-
 # 🚀 Machine Learning Journey
 
-Welcome to my **Machine Learning Journey**!
+Welcome to my Machine Learning Journey!
 
-This repository documents my daily learning progress as I build a strong foundation in **Machine Learning, Artificial Intelligence, and Data Science**.
-
-Throughout this journey, I completed the **Machine Learning Specialization by DeepLearning.AI** while documenting my notes, reflections, and practical understanding of every topic I learned.
+This repository documents my daily learning progress as I build a strong foundation in Machine Learning, Artificial Intelligence, and Data Science.
 
 ---
 
@@ -18,36 +10,35 @@ Throughout this journey, I completed the **Machine Learning Specialization by De
 
 Hi, I'm **Rehana Hassan**.
 
-I'm a **Software Engineering graduate** and **Data Analyst** transitioning into **Machine Learning and Artificial Intelligence**.
+I'm a Software Engineering student and Data Analyst who is currently transitioning into Machine Learning and Artificial Intelligence.
 
-My goal is to become an **AI & Machine Learning Engineer** by continuously learning, building real-world projects, and sharing my progress publicly.
+My goal is to become an AI & Machine Learning Specialist by mastering machine learning concepts, building practical projects, and continuously improving my technical skills.
 
 ---
 
 # 📚 About This Repository
 
-This repository serves as my public learning journal throughout the Machine Learning Specialization.
+This repository serves as my public learning journal.
 
-Inside this repository you'll find:
+Here you'll find:
 
-- 📌 Daily learning notes
-- 🧠 Concepts explained in simple language
-- 💻 Hands-on practice summaries
-- 📊 Learning progress
-- 🏆 Milestones and achievements
-- 📜 Certificates
-- 💡 Personal reflections
+* 📌 Daily learning notes
+* 🧠 Concepts explained in simple words
+* 📊 Progress tracking
+* 💡 Personal reflections
+* 🏆 Milestones and achievements
+* 🚀 Future projects
 
 ---
 
 # 🎯 Learning Goals
 
-- Build a strong Machine Learning foundation
-- Understand supervised, unsupervised, and reinforcement learning
-- Master neural networks and deep learning fundamentals
-- Build practical Machine Learning projects
-- Continue learning modern AI technologies
-- Become an AI & Machine Learning Engineer
+* Build a strong Machine Learning foundation
+* Master Supervised and Unsupervised Learning
+* Learn Deep Learning and Neural Networks
+* Build real-world Machine Learning projects
+* Explore Cloud AI technologies
+* Become an AI & Machine Learning Specialist
 
 ---
 
@@ -66,188 +57,112 @@ machine-learning-journey/
 │
 ├── course-02-advanced-learning-algorithms/
 │   ├── Day-01/
-│   ├── Day-02/
-│   ├── ...
-│   └── Day-14/
-│
-├── course-03-unsupervised-learning/
-│   ├── Day-01/
-│   ├── Day-02/
-│   ├── ...
-│   └── Day-6/
+│   └── Day-02/
 │
 ├── milestones/
-│   ├── milestone-1-course-1-completed.md
-│   ├── milestone-2-course-2-completed.md
-│   └── milestone-3-machine-learning-specialization-completed.md
-│
+│   ├──course-1-completed
+|
 ├── certificates/
-│   ├── course-01-certificate.png
-│   ├── course-02-certificate.png
-│   ├── course-03-certificate.png
-│   └── machine-learning-specialization-certificate.png
-│
+|   ├── course-01-certificate.png
+|
 └── README.md
 ```
 
-Each day contains notes, key concepts, and reflections from my learning journey.
+Each day contains notes and reflections from my learning process.
 
 ---
 
 # 🏆 Achievements
 
-## 🎓 Machine Learning Specialization (DeepLearning.AI)
+## Machine Learning Specialization
 
-### ✅ Course 1 — Supervised Machine Learning: Regression and Classification
+### ✅ Course 1 Completed
 
-Topics covered:
-
-- Linear Regression
-- Multiple Linear Regression
-- Gradient Descent
-- Feature Scaling
-- Feature Engineering
-- Polynomial Regression
-- Logistic Regression
-- Classification
-- Decision Boundaries
-- Cost Functions
-
----
-
-### ✅ Course 2 — Advanced Learning Algorithms
+**Supervised Machine Learning: Regression and Classification**
 
 Topics covered:
 
-- Neural Networks
-- Forward Propagation
-- TensorFlow
-- Activation Functions (Sigmoid & ReLU)
-- Softmax Classification
-- Model Evaluation
-- Bias & Variance
-- Decision Trees
-- Random Forest
-- XGBoost
-- Best Practices for Machine Learning
+* Linear Regression
+* Multiple Linear Regression
+* Gradient Descent
+* Feature Scaling
+* Feature Engineering
+* Polynomial Regression
+* Logistic Regression
+* Classification
+* Decision Boundaries
+* Cost Functions
 
 ---
 
-### ✅ Course 3 — Unsupervised Learning, Recommenders & Reinforcement Learning
+# 📈 Current Progress
 
-Topics covered:
+## Course 1: Supervised Machine Learning
 
-- K-Means Clustering
-- Anomaly Detection
-- Collaborative Filtering
-- Content-Based Filtering
-- Recommender Systems
-- Reinforcement Learning
-- Markov Decision Process (MDP)
-- State-Action Value Function (Q-Function)
-- Bellman Equation
-- Deep Q-Learning Concepts
-- Continuous State Spaces
-- ε-Greedy Policy
+* ✅ Completed
 
----
+## Course 2: Advanced Learning Algorithms
 
-# 📈 Learning Progress
+* ✅ Day 1 — Neural Networks Intuition
+* ✅ Day-02 — Neural Network Models
+* ✅ Day-03 — TensorFlow Implementation
 
-| Course | Status |
-|---------|--------|
-| ✅ Course 1 — Supervised Machine Learning | Completed |
-| ✅ Course 2 — Advanced Learning Algorithms | Completed |
-| ✅ Course 3 — Unsupervised Learning, Recommenders & Reinforcement Learning | Completed |
+## Course 3: Unsupervised Learning, Recommenders & Reinforcement Learning
+
+* ⏳ Planned
 
 ---
 
-# 🏅 Certificates Earned
+# 🛠️ Technologies
 
-- 🏆 Supervised Machine Learning: Regression and Classification
-- 🏆 Advanced Learning Algorithms
-- 🏆 Unsupervised Learning, Recommenders & Reinforcement Learning
-- 🏆 Machine Learning Specialization
-
----
-
-# 🛠️ Technologies Used
-
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- TensorFlow
-- Jupyter Notebook
-- SQL
-- Git
-- GitHub
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+* Jupyter Notebook
+* SQL
+* Power BI
+* Git & GitHub
 
 ---
 
 # 🌱 Learning Philosophy
 
-I believe that consistent learning leads to meaningful growth.
+I believe in:
 
-Throughout this journey I focused on:
+* Learning consistently
+* Practicing regularly
+* Writing clear notes
+* Building projects
+* Sharing knowledge publicly
 
-- 📚 Understanding concepts deeply
-- 💻 Practicing through coding
-- 📝 Writing clear notes
-- 🚀 Building practical projects
-- 🌍 Sharing my progress publicly
-
-> *Small progress every day leads to big achievements.*
+Small progress every day leads to big results.
 
 ---
 
-# 🚀 What's Next?
+# 🚀 Future Plans
 
-Now that I've completed the Machine Learning Specialization, my next goals are:
-
-- Build end-to-end Machine Learning projects
-- Learn Deep Learning in greater depth
-- Study Computer Vision
-- Explore Natural Language Processing (NLP)
-- Learn MLOps and Model Deployment
-- Build AI-powered applications
-- Contribute to open-source AI projects
+* Build Machine Learning mini-projects
+* Complete the Machine Learning Specialization
+* Learn Deep Learning
+* Learn MLOps and Model Deployment
+* Build AI-powered applications
 
 ---
 
 # 🤝 Connect With Me
 
-### 💼 LinkedIn
+### LinkedIn
 
-🔗 https://www.linkedin.com/in/rehana-hassan/
+[www.linkedin.com/in/rehana-hassan](http://www.linkedin.com/in/rehana-hassan)
 
-### 💻 GitHub
+### GitHub
 
-🔗 https://github.com/rihhanna
-
----
-
-# ⭐ Support
-
-If you found this repository helpful or inspiring, feel free to:
-
-⭐ Star the repository
-
-🍴 Fork it
-
-🤝 Connect with me on LinkedIn
+github.com/rihhanna
 
 ---
 
-## 🎉 Final Reflection
+⭐ Thank you for visiting my repository and following my Machine Learning journey.
 
-Completing the **Machine Learning Specialization** has been one of the most rewarding milestones in my learning journey.
-
-From learning my first Linear Regression model to understanding Reinforcement Learning, every lesson strengthened my knowledge and brought me closer to my goal of becoming an AI & Machine Learning Engineer.
-
-This repository captures that journey—and it's only the beginning.
-
-**Thank you for visiting my repository!** 🚀
-
-> *"Learning never stops. Keep building, keep exploring, and keep growing."* 🌱
+✨ Learning one step at a time. Every day counts.
